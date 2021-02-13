@@ -1,0 +1,2 @@
+@learn_and_fun Think of the CDK as an abstraction on top of CloudFormation. 
+The CDK uses CloudFormation in the backend. If you go in the console of CloudFormation, you can see what's going on there
